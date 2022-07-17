@@ -1,4 +1,4 @@
-## Olá eu sou a Solange Franco!
+## Olá, eu sou a Solange Franco!
 
 
 - 🔭 Hoje trabalho com Backend 
