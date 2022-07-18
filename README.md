@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Backend 
-- 🌱 Estudante de Engenharia de Software e JavaScript/VBA/Python
+- 🌱 Estudante de Engenharia de Software  JavaScript, VBA & Python
 - 📫 Contate-me no Email: Solfrancoo@icloud.com
 - 😄 Pronouns: ela/dela
 
